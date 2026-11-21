@@ -1,2 +1,9 @@
 # Montgomery-Fleet-Equipment-Inventory-Analysis-in-Excel
-Proyek ini berisi analisis data inventaris armada kendaraan (fleet equipment) di Montgomery County. Data diolah menggunakan Microsoft Excel untuk mengelompokkan distribusi kendaraan berdasarkan departemen dan jenis kelas kendaraan.
+
+Deskripsi Proyek: Proyek ini membahas pengolahan dan analisis data inventaris Montgomery Fleet menggunakan Microsoft Excel. Pengolahan dilakukan untuk merangkum, mengelompokkan, dan menyajikan informasi inventaris berdasarkan data yang tersedia.
+
+Metode: Pengolahan Data, Pivot Table, dan Analisis Deskriptif.
+
+Tools: Microsoft Excel.
+
+Konteks Proyek: Proyek pengolahan data di Ms. Excel 
